@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Sudo-Si/CRUDy/issues"
   },
-  "homepage": "https://github.com/Sudo-Si/CRUDy#readme"
+  "homepage": "https://github.com/Sudo-Si/CRUDy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  }
 }

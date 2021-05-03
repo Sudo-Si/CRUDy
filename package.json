@@ -1,0 +1,19 @@
+{
+  "name": "crudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudo-Si/CRUDy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudo-Si/CRUDy/issues"
+  },
+  "homepage": "https://github.com/Sudo-Si/CRUDy#readme"
+}

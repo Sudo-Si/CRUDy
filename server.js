@@ -1,1 +1,1 @@
-console.log("Yoza!")
+console.log("Yoza! server connected ma bro...")
